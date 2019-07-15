@@ -34,7 +34,7 @@
 |[数据挖掘基础](https://github.com/edu2act/course-Fundamentals-of-data-mining/) | 2016级 | Java与大数据分析 | |
 |[Java与移动智能设备开发基础](https://github.com/edu2act/course-android) | 2017级 | Java与移动智能设备开发 | |
 |[Java企业级开发（一）](https://github.com/edu2act/course-JavaEE/tree/2018-2019-2st) | 2017级 | Java与移动智能设备开发 |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-JavaEE/releases/tag/2018-2019-2st) |
-|[Android综合应用](https://github.com/edu2act/course-Android-Integrated-Application) | 2016级 | Java与移动智能设备开发 | |
+|[Android综合应用](https://github.com/edu2act/course-Android-Integrated-Application/tree/2018-2019-2st) | 2016级 | Java与移动智能设备开发 |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-Android-Integrated-Application/releases/tag/2018-2019-2st) |
 |[Spring框架介绍及应用](https://github.com/edu2act/course-spring/tree/2018-2019-2st) | 2016级 | Java与移动智能设备开发 |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-spring/releases/tag/2018-2019-2st) |
 |[Java持久化框架开发](https://github.com/edu2act/course-hibernate) | 2016级 | Java与移动智能设备开发 | |
 
