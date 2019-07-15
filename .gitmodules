@@ -1,0 +1,12 @@
+[submodule "courses/基础课程/网络原理"]
+	path = courses/基础课程/网络原理
+	url = git@github.com:edu2act/course-NetWork.git
+[submodule "courses/基础课程/数据库原理"]
+	path = courses/基础课程/数据库原理
+	url = git@github.com:edu2act/course-DataBase.git
+[submodule "courses/基础课程/操作系统"]
+	path = courses/基础课程/操作系统
+	url = git@github.com:edu2act/course-OS.git
+[submodule "courses/基础课程/程序设计基础（C语言）"]
+	path = courses/基础课程/程序设计基础（C语言）
+	url = git@github.com:edu2act/course-C.git
