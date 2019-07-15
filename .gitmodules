@@ -10,3 +10,12 @@
 [submodule "courses/基础课程/程序设计基础（C语言）"]
 	path = courses/基础课程/程序设计基础（C语言）
 	url = git@github.com:edu2act/course-C.git
+[submodule "courses/Java与移动智能设备开发/Java企业级开发（一）"]
+	path = courses/Java与移动智能设备开发/Java企业级开发（一）
+	url = git@github.com:edu2act/course-JavaEE.git
+[submodule "courses/软件测试/软件测试基础"]
+	path = courses/软件测试/软件测试基础
+	url = git@github.com:edu2act/course-JavaEE.git
+[submodule "courses/Java与移动智能设备开发/Spring框架介绍及应用"]
+	path = courses/Java与移动智能设备开发/Spring框架介绍及应用
+	url = git@github.com:edu2act/course-spring.git
