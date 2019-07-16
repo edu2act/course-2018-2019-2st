@@ -14,7 +14,7 @@
 |[操作系统实践](https://github.com/edu2act/course-os-practice/tree/2018-2019-2st) | 2017级 | [基础课程](./courses/基础课程) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-os-practice/releases/tag/2018-2019-2st) |
 |[项目管理](https://github.com/edu2act/course-IT-Project-Management/) | 2016级 | [基础课程](./courses/基础课程) | |
 |[Linux系统基础](https://github.com/edu2act/course-linux-system/) | 2016级 | [基础课程](./courses/基础课程) | |
-|[软件体系结构（设计模式）](https://github.com/edu2act/course-Software-architecture/) | 2016级 | [基础课程](./courses/基础课程) | |
+|[软件体系结构（设计模式）](https://github.com/edu2act/course-Software-architecture/tree/2018-2019-2st) | 2016级 | [基础课程](./courses/基础课程) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-Software-architecture/releases/tag/2018-2019-2st) |
 |深度学习 | 2016级 | [人工智能](./courses/人工智能) | |
 |[推荐系统](https://github.com/edu2act/course-Recommender-Systems/tree/2018-2019-2st) | 2016级 | [人工智能](./courses/人工智能) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-Recommender-Systems/releases/tag/2018-2019-2st) |
 |[Python科学计算生态](https://github.com/edu2act/course-PySCE/tree/2018-2019-2st) |2017级 |[人工智能](./courses/人工智能) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-PySCE/releases/tag/2018-2019-2st) |
@@ -30,8 +30,8 @@
 |[微信开发](https://github.com/edu2act/course-wechat-and-miniprogram) | 2016级 | [HTML5与移动互联网开发](./courses/HTML5与移动互联网开发) | |
 |[SPA 富应用开发](https://github.com/edu2act/course-spa/tree/2018-2019-2st) | 2016级 | [HTML5与移动互联网开发](./courses/HTML5与移动互联网开发) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-spa/releases/tag/2018-2019-2st) |
 |[Hadoop开发](https://github.com/edu2act/course-Hadoop/tree/2018-2019-2st) | 2016级 | [Java与大数据分析](./courses/Java与大数据分析) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-Hadoop/releases/tag/2018-2019-2st) |
-|[Python与数据挖掘](https://github.com/edu2act/course-Python/) | 2016级 | [Java与大数据分析](./courses/Java与大数据分析) | |
-|[数据挖掘基础](https://github.com/edu2act/course-Fundamentals-of-data-mining/) | 2016级 | [Java与大数据分析](./courses/Java与大数据分析) | |
+|[Python与数据挖掘](https://github.com/edu2act/course-Python/tree/2018-2019-2st) | 2016级 | [Java与大数据分析](./courses/Java与大数据分析) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-Python/releases/tag/2018-2019-2st) |
+|[数据挖掘基础](https://github.com/edu2act/course-Fundamentals-of-data-mining/tree/2018-2019-2st) | 2016级 | [Java与大数据分析](./courses/Java与大数据分析) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-Fundamentals-of-data-mining/releases/tag/2018-2019-2st) |
 |[Java与移动智能设备开发基础](https://github.com/edu2act/course-android/tree/2018-2019-2st) | 2017级 | [Java与移动智能设备开发](./courses/Java与移动智能设备开发) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-android/releases/tag/2018-2019-2st) |
 |[Java企业级开发（一）](https://github.com/edu2act/course-JavaEE/tree/2018-2019-2st) | 2017级 | [Java与移动智能设备开发](./courses/Java与移动智能设备开发) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-JavaEE/releases/tag/2018-2019-2st) |
 |[Android综合应用](https://github.com/edu2act/course-Android-Integrated-Application/tree/2018-2019-2st) | 2016级 | [Java与移动智能设备开发](./courses/Java与移动智能设备开发) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-Android-Integrated-Application/releases/tag/2018-2019-2st) |
