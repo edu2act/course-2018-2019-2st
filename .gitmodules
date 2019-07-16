@@ -46,3 +46,15 @@
 [submodule "courses/HTML5与移动互联网开发/SPA富应用开发"]
 	path = courses/HTML5与移动互联网开发/SPA富应用开发
 	url = git@github.com:edu2act/course-spa.git
+[submodule "courses/人工智能/推荐系统"]
+	path = courses/人工智能/推荐系统
+	url = git@github.com:edu2act/course-Recommender-Systems.git
+[submodule "courses/人工智能/Python科学计算生态"]
+	path = courses/人工智能/Python科学计算生态
+	url = git@github.com:edu2act/course-PySCE.git
+[submodule "courses/Java与大数据分析/Hadoop开发"]
+	path = courses/Java与大数据分析/Hadoop开发
+	url = git@github.com:edu2act/course-Hadoop.git
+[submodule "courses/基础课程/操作系统实践"]
+	path = courses/基础课程/操作系统实践
+	url = git@github.com:edu2act/course-os-practice.git
