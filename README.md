@@ -7,7 +7,7 @@
 |课程名称|开设年级|所属方向|下载|
 |-------|-------|-------|-------|
 |[网络原理](https://github.com/edu2act/course-NetWork/tree/2018-2019-2st) | 2018级 | [基础课程](./courses/基础课程) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-NetWork/releases/tag/2018-2019-2st) |
-|[WEB开发（一）](https://github.com/edu2act/course-web1/) | 2018级 | [基础课程](./courses/基础课程) | |
+|[WEB开发（一）](https://github.com/edu2act/course-web1/tree/2018-2019-2st) | 2018级 | [基础课程](./courses/基础课程) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-web1/releases/tag/2018-2019-2st) |
 |[程序设计基础（C语言）](https://github.com/edu2act/course-C/tree/2018-2019-2st) | 2018级 | [基础课程](./courses/基础课程) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-C/releases/tag/2018-2019-2st) |
 |[操作系统](https://github.com/edu2act/course-OS/tree/2018-2019-2st) | 2017级 | [基础课程](./courses/基础课程) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-OS/releases/tag/2018-2019-2st) |
 |[数据库原理](https://github.com/edu2act/course-DataBase/tree/2018-2019-2st) | 2017级 | [基础课程](./courses/基础课程) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-DataBase/releases/tag/2018-2019-2st) |
@@ -32,7 +32,7 @@
 |[Hadoop开发](https://github.com/edu2act/course-Hadoop/) | 2016级 | Java与大数据分析 | |
 |[Python与数据挖掘](https://github.com/edu2act/course-Python/) | 2016级 | Java与大数据分析 | |
 |[数据挖掘基础](https://github.com/edu2act/course-Fundamentals-of-data-mining/) | 2016级 | Java与大数据分析 | |
-|[Java与移动智能设备开发基础](https://github.com/edu2act/course-android) | 2017级 | [Java与移动智能设备开发](./courses/Java与移动智能设备开发) | |
+|[Java与移动智能设备开发基础](https://github.com/edu2act/course-android/tree/2018-2019-2st) | 2017级 | [Java与移动智能设备开发](./courses/Java与移动智能设备开发) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-android/releases/tag/2018-2019-2st) |
 |[Java企业级开发（一）](https://github.com/edu2act/course-JavaEE/tree/2018-2019-2st) | 2017级 | [Java与移动智能设备开发](./courses/Java与移动智能设备开发) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-JavaEE/releases/tag/2018-2019-2st) |
 |[Android综合应用](https://github.com/edu2act/course-Android-Integrated-Application/tree/2018-2019-2st) | 2016级 | [Java与移动智能设备开发](./courses/Java与移动智能设备开发) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-Android-Integrated-Application/releases/tag/2018-2019-2st) |
 |[Spring框架介绍及应用](https://github.com/edu2act/course-spring/tree/2018-2019-2st) | 2016级 | [Java与移动智能设备开发](./courses/Java与移动智能设备开发) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-spring/releases/tag/2018-2019-2st) |
