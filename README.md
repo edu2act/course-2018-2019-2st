@@ -19,11 +19,11 @@
 |推荐系统 | 2016级 | 人工智能 | |
 |Python科学计算生态 |2017级 |人工智能 | |
 |人工智能方向基础 | 2017级 | 人工智能 | |
-|[APP测试](https://github.com/edu2act/course-APP-Testing) | 2016级 | 软件测试 | |
-|[性能测试](https://github.com/edu2act/Course-Performance-Testing) | 2016级 | 软件测试 | |
-|[测试综合技能](https://github.com/edu2act/course-testing-comprehensive-skill) | 2016级 | 软件测试 | |
-|[开源测试框架](https://github.com/edu2act/open-source-web-testing-framework) | 2017级 | 软件测试 | |
-|[测试方向基础](https://github.com/edu2act/course-JavaEE/tree/2018-2019-2st) | 2017级 | 软件测试 |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-JavaEE/releases/tag/2018-2019-2st) |
+|[APP测试](https://github.com/edu2act/course-APP-Testing/tree/2018-2019-2st) | 2016级 | [软件测试](./courses/软件测试) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-APP-Testing/releases/tag/2018-2019-2st) |
+|[性能测试](https://github.com/edu2act/course-Load-Testing/tree/2018-2019-2st) | 2016级 | [软件测试](./courses/软件测试) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-Load-Testing/releases/tag/2018-2019-2st) |
+|[测试综合技能](https://github.com/edu2act/course-testing-comprehensive-skill/tree/2018-2019-2st) | 2016级 | [软件测试](./courses/软件测试) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-testing-comprehensive-skill/releases/tag/2018-2019-2st) |
+|[开源测试框架](https://github.com/edu2act/course-web-driver/tree/2018-2019-2st) | 2017级 | [软件测试](./courses/软件测试) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-web-driver/releases/tag/2018-2019-2st) |
+|[测试方向基础](https://github.com/edu2act/course-JavaEE/tree/2018-2019-2st) | 2017级 | [软件测试](./courses/软件测试) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-JavaEE/releases/tag/2018-2019-2st) |
 |[HTML5与CSS3前端开发](https://github.com/edu2act/course-HTML5-and-mobile-internet-development-fondation) | 2017级 | HTML5与移动互联网开发 | |
 |[HTML5与移动互联网应用开发方向基础](https://github.com/edu2act/course-javascript-advanced) | 2017级 | HTML5与移动互联网开发 | |
 |[React程序开发](https://github.com/edu2act/course-react) | 2016级 | HTML5与移动互联网开发 | |

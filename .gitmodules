@@ -25,3 +25,15 @@
 [submodule "courses/Java与移动智能设备开发/Java持久化框架开发"]
 	path = courses/Java与移动智能设备开发/Java持久化框架开发
 	url = git@github.com:edu2act/course-hibernate.git
+[submodule "courses/软件测试/APP测试"]
+	path = courses/软件测试/APP测试
+	url = git@github.com:edu2act/course-APP-Testing.git
+[submodule "courses/软件测试/测试综合技能"]
+	path = courses/软件测试/测试综合技能
+	url = git@github.com:edu2act/course-testing-comprehensive-skill.git
+[submodule "courses/软件测试/性能测试"]
+	path = courses/软件测试/性能测试
+	url = git@github.com:edu2act/course-Load-Testing.git
+[submodule "courses/软件测试/开源测试框架"]
+	path = courses/软件测试/开源测试框架
+	url = git@github.com:edu2act/course-web-driver.git
