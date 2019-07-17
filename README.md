@@ -24,8 +24,8 @@
 |[测试综合技能](https://github.com/edu2act/course-testing-comprehensive-skill/tree/2018-2019-2st) | 2016级 | [软件测试](./courses/软件测试) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-testing-comprehensive-skill/releases/tag/2018-2019-2st) |
 |[开源测试框架](https://github.com/edu2act/course-web-driver/tree/2018-2019-2st) | 2017级 | [软件测试](./courses/软件测试) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-web-driver/releases/tag/2018-2019-2st) |
 |[测试方向基础](https://github.com/edu2act/course-JavaEE/tree/2018-2019-2st) | 2017级 | [软件测试](./courses/软件测试) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-JavaEE/releases/tag/2018-2019-2st) |
-|[HTML5与CSS3前端开发](https://github.com/edu2act/course-HTML5-and-mobile-internet-development-fondation) | 2017级 | [HTML5与移动互联网开发](./courses/HTML5与移动互联网开发) | |
-|[HTML5与移动互联网应用开发方向基础](https://github.com/edu2act/course-javascript-advanced) | 2017级 | [HTML5与移动互联网开发](./courses/HTML5与移动互联网开发) | |
+|[HTML5与CSS3前端开发](https://github.com/edu2act/course-HTML5-and-mobile-internet-development-fondation/tree/2018-2019-2st) | 2017级 | [HTML5与移动互联网开发](./courses/HTML5与移动互联网开发) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-HTML5-and-mobile-internet-development-fondation/releases/tag/2018-2019-2st) |
+|[HTML5与移动互联网应用开发基础](https://github.com/edu2act/course-javascript-advanced) | 2017级 | [HTML5与移动互联网开发](./courses/HTML5与移动互联网开发) | |
 |[React程序开发](https://github.com/edu2act/course-react) | 2016级 | [HTML5与移动互联网开发](./courses/HTML5与移动互联网开发) | |
 |[微信开发](https://github.com/edu2act/course-wechat-and-miniprogram) | 2016级 | [HTML5与移动互联网开发](./courses/HTML5与移动互联网开发) | |
 |[SPA 富应用开发](https://github.com/edu2act/course-spa/tree/2018-2019-2st) | 2016级 | [HTML5与移动互联网开发](./courses/HTML5与移动互联网开发) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-spa/releases/tag/2018-2019-2st) |

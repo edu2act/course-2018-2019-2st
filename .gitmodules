@@ -67,3 +67,6 @@
 [submodule "courses/基础课程/软件体系结构（设计模式）"]
 	path = courses/基础课程/软件体系结构（设计模式）
 	url = git@github.com:edu2act/course-Software-architecture.git
+[submodule "courses/HTML5与移动互联网开发/HTML5与CSS3前端开发"]
+	path = courses/HTML5与移动互联网开发/HTML5与CSS3前端开发
+	url = git@github.com:edu2act/course-HTML5-and-mobile-internet-development-fondation.git
