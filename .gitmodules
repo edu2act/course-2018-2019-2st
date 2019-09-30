@@ -85,3 +85,6 @@
 [submodule "courses/HTML5与移动互联网开发/React程序开发"]
 	path = courses/HTML5与移动互联网开发/React程序开发
 	url = https://github.com/edu2act/course-react
+[submodule "courses/HTML5与移动互联网开发/HTML5与移动互联网应用开发基础"]
+	path = courses/HTML5与移动互联网开发/HTML5与移动互联网应用开发基础
+	url = https://github.com/edu2act/course-javascript-advanced
