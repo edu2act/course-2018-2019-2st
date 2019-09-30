@@ -73,3 +73,9 @@
 [submodule "courses/基础课程/项目管理"]
 	path = courses/基础课程/项目管理
 	url = https://github.com/edu2act/course-IT-Project-Management
+[submodule "courses/人工智能/人工智能方向基础"]
+	path = courses/人工智能/人工智能方向基础
+	url = https://github.com/edu2act/course-machine-learning-foundation
+[submodule "courses/人工智能/深度学习进阶"]
+	path = courses/人工智能/深度学习进阶
+	url = https://github.com/edu2act/course-deep-learning-advanced
