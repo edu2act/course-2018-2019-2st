@@ -12,7 +12,7 @@
 |[操作系统](https://github.com/edu2act/course-OS/tree/2018-2019-2st) | 2017级 | [基础课程](./courses/基础课程) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-OS/releases/tag/2018-2019-2st) |
 |[数据库原理](https://github.com/edu2act/course-DataBase/tree/2018-2019-2st) | 2017级 | [基础课程](./courses/基础课程) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-DataBase/releases/tag/2018-2019-2st) |
 |[操作系统实践](https://github.com/edu2act/course-os-practice/tree/2018-2019-2st) | 2017级 | [基础课程](./courses/基础课程) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-os-practice/releases/tag/2018-2019-2st) |
-|[项目管理](https://github.com/edu2act/course-IT-Project-Management/) | 2016级 | [基础课程](./courses/基础课程) | |
+|[项目管理](https://github.com/edu2act/course-IT-Project-Management/tree/2018-2019-2st) | 2016级 | [基础课程](./courses/基础课程) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-IT-Project-Management/releases/tag/2018-2019-2st) |
 |[Linux系统基础](https://github.com/edu2act/course-linux-system/) | 2016级 | [基础课程](./courses/基础课程) | |
 |[软件体系结构（设计模式）](https://github.com/edu2act/course-Software-architecture/tree/2018-2019-2st) | 2016级 | [基础课程](./courses/基础课程) |[![](https://img.shields.io/badge/term-2018--2019--1st-9cf.svg)](https://github.com/edu2act/course-Software-architecture/releases/tag/2018-2019-2st) |
 |深度学习 | 2016级 | [人工智能](./courses/人工智能) | |
